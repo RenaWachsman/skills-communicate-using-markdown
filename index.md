@@ -8,3 +8,9 @@
 ``` csharp
 string hello = "Hello, world!";
 ```
+- [ ] Python Homework- GH Portion
+- [X] Python Homework- Python Portion
+- [ ] Turn in C# Homework
+- [X] Discrete Homework
+- [X] Laundry
+- [ ] Get some sleep :)
